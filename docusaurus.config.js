@@ -64,11 +64,11 @@ module.exports = {
           ],
           dropdownItemsBefore: [
             {
-              label: 'v23.x (beta)',
+              label: 'v23.x (actual)',
               href: 'https://beta.effector.dev'
             },
             {
-              label: 'v22.x (latest)',
+              label: 'v22.8.8',
               href: 'https://effector.dev'
             },
           ],
@@ -166,7 +166,7 @@ module.exports = {
           remarkPlugins: [],
           versions: {
             current: {
-              label: "v21.x.x"
+              label: "v21.8.12"
             }
           }
         },
